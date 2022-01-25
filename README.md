@@ -21,34 +21,24 @@
   
   🎓 I graduated in electrical engineering
   
+  🇧🇷 I'm from Brazil
+  
 </p>
 
 ##
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height= 180em align="center" src="https://github-readme-stats.vercel.app/api?username=Thesamuel01&show_icons=true&theme=synthwave" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height= 180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thesamuel01&layout=compact&theme=synthwave" />
-  </a>
+  <a href="https://github.com/Thesamuel01"</a>
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Thesamuel01&show_icons=true&theme=synthwave" />
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thesamuel01&layout=compact&theme=synthwave" />
 </div>
+
 <div align="center" style="display:inline_block"><br>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img align=center width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img align=center width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img align=center width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img align=center width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img align=center width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  </a>
+    <img alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+    <img alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img alt="JAVASCRIPT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img alt="PYTHON" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 </div>
 
 ##
@@ -58,17 +48,3 @@
 <a href="mailto: samueldev8@gmail.com" target="_blank">
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<!--
-**Thesamuel01/Thesamuel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
