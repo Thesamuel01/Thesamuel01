@@ -1,6 +1,6 @@
 <h1 align="center">
   
-  Hi there, I'm Samuel Santos <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hi there, I'm Samuel Santos <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" heigth="20px">
   
 </h1>
 
