@@ -17,7 +17,7 @@
 
   🌱 I'm Learning Web Development at Trybe
   
-  💻 I've been studying Programming since 2021, but I also want to learn about DevOps and Cyber Security.
+  💻 I've been studying programming since 2021. I'm currently specializing in back-end, but I also enjoy learning about DevOps and Cybersecurity.
   
   🎓 I graduated in electrical engineering
   
