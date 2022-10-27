@@ -43,6 +43,7 @@
     <img alt="REDUX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
     <img alt="NODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img alt="MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+    <img alt="MONGODB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
     <img alt="ELIXIR" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" />
     <img alt="PHOENIX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" />
 </div>
