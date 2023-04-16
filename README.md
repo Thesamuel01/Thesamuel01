@@ -15,7 +15,7 @@
 
 <p align="center">
 
-  🌱 I'm Learning Web Development at Trybe
+  🌱 I'm Backend developer at Triibo.
   
   💻 I've been studying programming since 2021. I'm currently specializing in back-end, but I also enjoy learning about DevOps and Cybersecurity.
   
