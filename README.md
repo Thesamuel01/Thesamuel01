@@ -30,6 +30,7 @@
 <div align="center">
   <a href="https://github.com/Thesamuel01">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thesamuel01&show_icons=true&theme=synthwave" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thesamuel01&layout=compact&theme=synthwave" />
 </div>
 
 <div align="center" style="display:inline_block"><br>
