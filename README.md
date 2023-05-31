@@ -34,8 +34,6 @@
 </div> -->
 
 <div align="center" style="display:inline_block"><br>
-    <img alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <img alt="JAVASCRIPT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
     <img alt="TYPESCRIPT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img alt="JEST" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
@@ -43,6 +41,8 @@
     <img alt="REDUX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
     <img alt="NODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img alt="MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+    <img alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+    <img alt="SPRINGBOOT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
     <img alt="MONGODB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
     <img alt="ELIXIR" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" />
     <img alt="PHOENIX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" />
