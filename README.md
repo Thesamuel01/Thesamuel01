@@ -15,13 +15,13 @@
 
 <p align="center">
 
-  🌱 I'm Backend developer at Triibo.
-  
-  💻 I've been studying programming since 2021. I'm currently specializing in back-end, but I also enjoy learning about DevOps and Cybersecurity.
-  
-  🎓 I graduated in electrical engineering
-  
-  🇧🇷 I'm from Brazil
+  👨‍💻 I work as a Backend developer at Triibo.
+
+  📚 I have been immersed in the world of programming since 2021. Currently, I am pursuing an MBA in software engineering at FIAP.
+
+  🎓 I hold a degree in electrical engineering.
+
+  🇧🇷 I am from Brazil.
   
 </p>
 
