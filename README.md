@@ -15,11 +15,11 @@
 
 <p align="center">
 
-  👨‍💻 I work as a Backend developer at Triibo.
+  👨‍💻 I work as a Software Engineer at Daemon Investments.
 
-  📚 I have been immersed in the world of programming since 2021. Currently, I am pursuing an MBA in software engineering at FIAP.
+  📚 I have been immersed in the world of programming since 2021.
 
-  🎓 I hold a degree in electrical engineering.
+  🎓 I hold an MBA in Software Engineering and a bachelor's degree in Electrical Engineering.
 
   🇧🇷 I am from Brazil.
   
